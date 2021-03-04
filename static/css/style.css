@@ -1,0 +1,7 @@
+body {
+    background-color: whitesmoke;
+}
+
+#taskCard:hover {
+    cursor: pointer;
+}
